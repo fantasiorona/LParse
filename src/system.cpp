@@ -2,6 +2,7 @@
 #include "legend.h"
 
 #include <utility>
+#include <algorithm>
 
 using namespace LParse;
 
